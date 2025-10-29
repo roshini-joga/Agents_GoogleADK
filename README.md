@@ -35,12 +35,6 @@ This document collects all required YouTube videos for the assignment submission
 - **YouTube — Code Walkthrough & Execution:** [https://youtu.be/PJIIEMa81BI] 
   - *(Optional Subtitle: “<Project Name> — Walkthrough & Demo”)*
 
----
-
-## Bonus: Master Class (Reference)
-- **Master Class (for study/reference only):** https://youtu.be/P4VFL9nIaIA?si=-wpIAXKzxfHiM0ZL
-
----
 
 ## Notes for Reviewers
 - Each video demonstrates: environment setup, configuration, running the agent end-to-end, and a short task execution.
