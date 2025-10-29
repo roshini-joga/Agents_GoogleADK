@@ -13,7 +13,7 @@ This document collects all required YouTube videos for the assignment submission
 
 ## A1. From Prototypes to Agents with ADK
 - **Codelab URL:** https://share.google/SedY3WmkMRCEkJrrA  
-- **YouTube — Code Walkthrough & Execution:** https://youtu.be/REPLACE_WITH_A1_VIDEO  
+- **YouTube — Code Walkthrough & Execution:** https://youtu.be/5Auv_hLkaCk  
   - *(Optional Subtitle: “From Prototypes to Agents with ADK — Walkthrough & Demo”)*
 
 ---
