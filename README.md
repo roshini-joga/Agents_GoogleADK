@@ -32,7 +32,7 @@ This document collects all required YouTube videos for the assignment submission
 
 ## B. Hackathon Agent App
 - **Picked From:** https://github.com/Sri-Krishna-V/awesome-adk-agents  
-- **YouTube — Code Walkthrough & Execution:** https://youtu.be/REPLACE_WITH_B_VIDEO  
+- **YouTube — Code Walkthrough & Execution:** [https://youtu.be/PJIIEMa81BI] 
   - *(Optional Subtitle: “<Project Name> — Walkthrough & Demo”)*
 
 ---
