@@ -35,10 +35,6 @@ This document collects all required YouTube videos for the assignment submission
 - **YouTube — Code Walkthrough & Execution:** https://youtu.be/REPLACE_WITH_B_VIDEO  
   - *(Optional Subtitle: “<Project Name> — Walkthrough & Demo”)*
 
-> Artifacts referenced in the video:
-> - Repo / Code: `REPLACE_WITH_B_CODE_LINK`
-> - Archive (zip/tar): `REPLACE_WITH_B_ARCHIVE_LINK`
-
 ---
 
 ## Bonus: Master Class (Reference)
