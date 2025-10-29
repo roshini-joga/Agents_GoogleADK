@@ -16,37 +16,22 @@ This document collects all required YouTube videos for the assignment submission
 - **YouTube — Code Walkthrough & Execution:** https://youtu.be/REPLACE_WITH_A1_VIDEO  
   - *(Optional Subtitle: “From Prototypes to Agents with ADK — Walkthrough & Demo”)*
 
-> Artifacts referenced in the video:
-> - Colab / App Code: `REPLACE_WITH_A1_CODE_LINK`
-> - Archive (zip/tar): `REPLACE_WITH_A1_ARCHIVE_LINK`
-
 ---
 
 ## A2. Building AI Agents with ADK: Empowering with Tools
 - **Codelab URL:** https://share.google/2PaSC2sdeHuNqENjq  
 - **YouTube — Code Walkthrough & Execution:** https://youtu.be/REPLACE_WITH_A2_VIDEO  
   - *(Optional Subtitle: “ADK Tools — Walkthrough & Demo”)*
-
-> Artifacts referenced in the video:
-> - Colab / App Code: `REPLACE_WITH_A2_CODE_LINK`
-> - Archive (zip/tar): `REPLACE_WITH_A2_ARCHIVE_LINK`
-
 ---
 
 ## A3. Travel Agent using MCP Toolbox + ADK
 - **Codelab URL:** https://share.google/aTibSpbyEDvVPhIqD  
-- **YouTube — Code Walkthrough & Execution:** https://youtu.be/REPLACE_WITH_A3_VIDEO  
+- **YouTube — Code Walkthrough & Execution:** [https://youtu.be/yYPuy8mqj-E] 
   - *(Optional Subtitle: “Travel Agent with MCP + ADK — Walkthrough & Demo”)*
-
-> Artifacts referenced in the video:
-> - Colab / App Code: `REPLACE_WITH_A3_CODE_LINK`
-> - Archive (zip/tar): `REPLACE_WITH_A3_ARCHIVE_LINK`
-
 ---
 
 ## B. Hackathon Agent App
 - **Picked From:** https://github.com/Sri-Krishna-V/awesome-adk-agents  
-- **Project Title:** `REPLACE_WITH_PROJECT_NAME`
 - **YouTube — Code Walkthrough & Execution:** https://youtu.be/REPLACE_WITH_B_VIDEO  
   - *(Optional Subtitle: “<Project Name> — Walkthrough & Demo”)*
 
